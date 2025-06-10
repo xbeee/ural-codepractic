@@ -1,2 +1,2 @@
-# ural-codepractic
-ural-codepractic
+# ural-code
+Ural Code Решение №11
